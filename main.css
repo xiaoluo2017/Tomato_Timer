@@ -1,0 +1,59 @@
+body {
+  background-color: #333333 !important;
+}
+
+.container {
+  margin-top: 60px;
+}
+
+#session {
+  background: #333333;
+  border-radius: 100%;
+  height: 380px;
+  width: 240%;
+  border: 3px solid #99CC00;
+}
+
+#display {
+  color: white;
+  padding-left: 23%;
+  padding-top: 38%;
+  font-size: 80px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.row {
+  margin-top: 40px;
+}
+
+span {
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+i {
+  margin: 10px;
+  color: white;
+}
+
+.setTimer {
+  padding-top: 25%;
+}
+
+.time {
+  margin: 20px;
+  font-size: 40px;
+} 
+
+.img-thumbnail {
+  background-color: rgba(255, 255, 255, 0.5) !important;
+  border: rgba(255, 255, 255, 0.5) !important;
+}
+
+#control {
+  border-radius: 100%;
+  height: 100px;
+  width: 100px;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 30px;
+}
